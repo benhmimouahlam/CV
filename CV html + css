@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="Style/a.css" />
+    <title>BEN HMIMOU Ahlam</title>
+  </head>
+
+  <body bgcolor="#FFFFFF">
+    <table width="800px" height = "300px" align="center">  
+        <tr>
+            
+            <td width="20px"bgcolor="000000" style="color:rgb(255, 255, 255); padding:20px"> 
+              <center><img src="Images/CV.jpeg" alt="Photo CV  BEN HMIMOU Ahlam" width="200" height="200"  style="border-radius:50%;"alt=""/></center>
+                <h3><center><FONT size="5pt"><U>Informations personnelles</U></FONT></center></h3><hr>
+                <b>Nom:</b> <br>
+                BEN HMIMOU<br><br>
+                <b>Prénom:</b> <br>
+                Ahlam<br><br>
+                <b>Adresse:</b> <br>
+                HAY AL FIRDAOUSS, IMM 24, APPT 4, 12020, TEMARA <br><br>
+                <b>CIN:</b> <br>
+                 AD304969<br><br>
+                <b>Numéro:</b><br>
+                 +212 622189539<br><br>
+                <b>Adresse mail:</b><br>
+                 <a href ="mailto:benhmimouahlam@gmail.com">benhmimouahlam@gmail.com</a><br><br>
+                <b>Linkedin:</b><br>
+                <a href="https://www.linkedin.com/in/ahlam-ben-hmimou-a839931a4/">Profil</a></p><br><br>
+                <h3><center><FONT size="5pt"><U>Intérêts</U></FONT></center></h3><hr>
+                <ul>
+                    <li> Sport: Karaté (ceinture marron)</li>
+                    <li> Lecture: Sans famille, une autre vie... </li>
+                  </ul>
+                  <h3><center><FONT size="5pt"><U>Langues</U></FONT></center></h3><hr>
+                  <ul>
+                    <li><strong>Arabe</strong>: langue maternelle</li>
+                    <li><strong>Français </strong>: Lu, écrit, parlé (DELF B2)
+                    <li><strong>Anglais</strong>: Lu, écrit, parlé</li>
+                    <li><strong>Espagnol</strong>: Débutant</li>
+                  </ul>
+            </td>
+            
+
+
+
+
+            <td width="400px"bgcolor="FFFFFF" style="color:black; padding:20px"> 
+                <center><table border=5px;>
+                    <tr>
+                        <td><p><strong><h1>BEN HMIMOU Ahlam</h1></strong></p></td>
+                    </tr>
+                </table></center><hr>
+                    <h2><U>Profil</U></h2>
+                    <style>
+                      .alinea { 
+                        text-indent: 20px; 
+                      }
+                      </style>
+                    <p class="alinea">Actuellement étudiante en deuxième année à Yncrea, je suis à la recherche d’un stage à partir de Juin 2021.<br/></p>
+                    <p class="alinea">Idéalement, je souhaiterais rejoindre ... au sein de laquelle je saurais être force d’exécution et atteindre les objectifs fixés.<br/></p>
+                    <p class="alinea">Je tiens à vous informer que je suis créative, rigoureuse dans mon travail (perfectionniste), très motivée et ayant une capacité d’écoute,</br>
+                      ceci se reflète sur mes travaux de groupes et mes présentations au sein de mon école.<br/></p></p>
+
+
+
+
+                      <h2><U>Formation</U></h2>
+                      <p><strong>2020-2021: Deuxième année</strong> en cycle préparatoire école d'ingénieurs à <a href =file:///Users/benhmimouahlam/Documents/html/Yncrea%20Maroc.html>Yncrea Maroc</a></p>
+                      <p><strong>2019-2020: Première année</strong> en cycle préparatoire école d'ingénieurs à <a href =file:///Users/benhmimouahlam/Documents/html/Yncrea%20Maroc.html>Yncrea Maroc</a></p>
+                      <p><strong>2018-2019: Baccalauréat Sciences Physique-Chimie</strong>mention <strong>Bien</strong> à <a href ="http://www.madarissmaria.ma/">Madariss Maria</a></p>
+  
+
+
+                      <h2><U>Expérience professionnelle</U></h2>
+                      <p><strong>2020-2021: Membre du bureau des étudiants à <a href =file:///Users/benhmimouahlam/Documents/html/Yncrea%20Maroc.html>Yncrea Maroc</a></strong></p>
+                      <em><center>Vice-présidente événementielle</center></em>
+                
+                <h2><U>Certificats obtenus</U></h2>
+                <ul>
+                  <li>Mécanique Lagrangienne</li>
+                  <li>COVID-19 Contact Tracing</li>
+                  <li>Mécanique: Solide indéformable</li>
+                  <li>Mécanique du point matériel</li>
+                  <li>Mécanique de Newton</li>
+                  <li>Writing, Running and Fixing Code in C</li>
+                  <li>Programming Fundamentals</li>
+                  <li>Introduction to Calculus</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+  </body>
+</html>
