@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>BEN HMIMOU Ahlam</title>
+  </head>
+
+  <body>
+    <div class ="page">
+      <div class ="infophoto">
+        <div class ="info">
+          <h1><strong>BEN HMIMOU Ahlam </strong><br/></h1>
+        </div>
+        <div class ="photo">
+          <img src="Images/CV.jpeg" alt="Photo CV  BEN HMIMOU Ahlam" height="10%" width="10%" style="10%" />
+        </div>
+        <table border=1px;>
+          <tr>
+          <td><p>Née le 14 octobre 2001</p>
+          <p> HAY AL FIRDAOUSS, IMM 24, APPT 4, 12020, TEMARA <br/>
+          +212622189539 <br/>
+          <a href ="mailto:benhmimouahlam@gmail.com">benhmimouahlam@gmail.com</a></br>
+          Linkedin:<a href="https://www.linkedin.com/in/ahlam-ben-hmimou-a839931a4/">Profil</a></p></td>
+          </tr>
+        </table>
+        </div>
+          <h3><U>PROFIL</U></h3>
+          <p> Actuellement étudiante en deuxième année à Yncrea, je suis à la recherche d’un stage à partir de Juin 2021.<br/>
+          Idéalement, je souhaiterais rejoindre ... au sein de laquelle je saurais être force d’exécution et atteindre les objectifs fixés.<br/>
+          Je tiens à vous informer que je suis créative, rigoureuse dans mon travail (perfectionniste), très motivée et ayant une capacité d’écoute,</br>ceci se reflète sur mes travaux de groupes et mes présentations au sein de mon école.<br/></p>
+          <h3><U>FORMATION</U></h3>
+          <table border=1px;>
+            <tr>
+              <td><p><strong>2020-2021</strong></p></td>
+              <td><p><strong>Deuxième année</strong> en cycle préparatoire école d'ingénieurs à <a href ="https://yncreamaroc.ma/">Yncrea Maroc</a></p></td>
+            </tr>
+            <tr>
+              <td><p><strong>2019-2020</strong></p></td>
+              <td><p><strong>Première année</strong> en cycle préparatoire école d'ingénieurs à <a href ="https://yncreamaroc.ma/">Yncrea Maroc</a></p></td>
+            </tr>
+            <tr>
+              <td><p><strong>2018-2019</strong></p></td>
+              <td><p><strong>Baccalauréat Sciences Physique-Chimie</strong>, mention <strong>Bien</strong> à <a href ="http://www.madarissmaria.ma/">Madariss Maria</a></p></td>
+            </tr>
+          </table>
+          <h3><U>EXPÉRIENCE PROFESSIONNELLE</U></h3>
+          <table border=1px;>
+            <tr>
+              <td><p><strong>2020-2021</strong></p></td>
+              <td><p><strong>Membre du bureau des étudiants à <a href ="https://yncreamaroc.ma/">Yncrea Maroc</a></strong></p><br/>
+              <em>Vice-présidente événementielle</em></td>
+            </tr>
+          </table>
+          <h3><U>INTÉRÊTS</U></h3>
+          <ul>
+            <li> Sport: Karaté (ceinture marron)</li>
+            <li> Lecture: Sans famille, une autre vie... </li>
+          </ul>
+          <h3><U>LANGUES</U></h3>
+          <ul>
+            <li><strong>Arabe</strong>: langue maternelle</li>
+            <li><strong>Français </strong>: Lu, écrit, parlé (DELF B2)
+            <li><strong>Anglais</strong>: Lu, écrit, parlé</li>
+            <li><strong>Espagnol</strong>: Débutant</li>
+          </ul>
+          <h3><U>COMPÉTENCES</U></h3>
+          <ul>
+            <li>Power-Point</li>
+            <li>Word</li>
+            <li>Excel</li>
+            <li>Latex</li>
+            <li>Arduino</li>
+          </ul>
+          <h3><U>CERTIFICATS OBTEBUS</U></h3>
+          <ul>
+            <li>Mécanique Lagrangienne</li>
+            <li>COVID-19 Contact Tracing</li>
+            <li>Mécanique: Solide indéformable</li>
+            <li>Mécanique du point matériel</li>
+            <li>Mécanique de Newton</li>
+            <li>Writing, Running and Fixing Code in C</li>
+            <li>Programming Fundamentals</li>
+            <li>Introduction to Calculus</li>
+          </ul>
+      </div>  
+    </div>
+  </body>
+</html>
